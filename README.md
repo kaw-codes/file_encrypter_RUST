@@ -1,5 +1,11 @@
 # Chiffrement de fichiers
 
+## Setup
+
+```bash
+cargo build
+```
+
 ## Partie 1 : Chiffrement d'un seul fichier
 
 ### usage :
