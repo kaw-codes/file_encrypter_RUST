@@ -2,8 +2,16 @@
 
 ## Setup
 
+### exécuter les commandes suivantes :
+
+compilation :
 ```bash
 cargo build
+```
+
+compilation optimisée :
+```bash
+cargo run --release
 ```
 
 ## Partie 1 : Chiffrement d'un seul fichier
